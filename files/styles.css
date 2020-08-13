@@ -1,0 +1,28 @@
+A{
+	font-weight:bold;
+	color:#009e6d;
+	text-decoration:none;
+	font-size:15px;
+	font-family:'Arial';
+}
+A:hover {
+	font-weight:bold;
+	color:#009e6d;
+	text-decoration:underline;
+	font-size:15px;
+	font-family:'Arial';
+}
+BODY {
+	font-size:10px;
+	margin-left:3px;
+	margin-top:3px;
+	font-family:'Arial';
+	color:#009e6d;
+	font-weight:bold;
+}
+TD {
+	font-weight:bold;
+	color:#009e6d;
+	font-size:10px;
+	font-family:'Arial';
+}
